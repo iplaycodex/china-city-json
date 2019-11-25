@@ -1,6 +1,6 @@
 /**
  * china city area
- * back up at 2019-11-25
+ * back up time: 2019-11-25
  */
 export let area = [
     {
